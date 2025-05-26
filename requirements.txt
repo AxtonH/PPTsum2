@@ -1,7 +1,8 @@
+numpy==1.26.4
+pandas
 streamlit
 python-pptx
 openai
 python-dotenv
 hydralit-components
 requests
-pandas
